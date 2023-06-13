@@ -6,8 +6,8 @@ export const Projects = [
   },
   {
     id: 'project-2',
-    imgUrl: '/D_App.png',
-    title: 'Decentralised App',
+    imgUrl: '/Chat_Gpt.png',
+    title: 'Chat Gpt',
   },
   {
     id: 'project-3',
