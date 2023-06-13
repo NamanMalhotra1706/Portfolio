@@ -37,7 +37,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
           Project
         </p>
         <h2 className="mt-[24px] font-semibold sm:text-[32px] text-[24px] text-white">
-        {title==='Chat Gpt'? <a href='https://chat-gpt-project-namanmalhotra.vercel.app/'>{title}</a> : <h5>{title}</h5>}
+          {title === 'Chat Gpt' ? <a href="https://chat-gpt-project-namanmalhotra.vercel.app/">{title}</a> : <h5>{title}</h5>}
         </h2>
       </div>
     )}
