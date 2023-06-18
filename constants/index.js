@@ -3,26 +3,31 @@ export const Projects = [
     id: 'project-1',
     imgUrl: '/jobPortral.png',
     title: 'Job Portral',
+    url:"/"
   },
   {
     id: 'project-2',
     imgUrl: '/Chat_Gpt.png',
     title: 'Chat Gpt',
+    url:"https://chat-gpt-project-namanmalhotra.vercel.app/",
   },
   {
     id: 'project-3',
     imgUrl: '/Blog.png',
     title: 'Bloging Site',
+    url:"/",
   },
   {
     id: 'project-4',
     imgUrl: '/Sportistan.png',
     title: 'Sportistan',
+    url:"/",
   },
   {
     id: 'project-5',
-    imgUrl: '/ToDo.png',
-    title: 'To-Do List',
+    imgUrl: '/Ai_Image_Generator.jpg',
+    title: 'Ai Image Generator',
+    url:"https://ai-image-generator-naman-malhotra.vercel.app/",
   },
 ];
 

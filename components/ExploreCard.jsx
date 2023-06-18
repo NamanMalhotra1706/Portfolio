@@ -1,10 +1,10 @@
 'use client';
-
+import Link from 'next/link';
 import { motion } from 'framer-motion';
 import styles from '../styles';
 import { fadeIn } from '../utils/motion';
 
-const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
+const ExploreCard = ({ id, imgUrl, title, url , index, active, handleClick, }) => (
   <motion.div
     variants={fadeIn('right', 'spring', index * 0.5, 0.75)}
     className={`relative ${
@@ -12,7 +12,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
     } flex items-center justify-center min-w-[10px] h-[650px] transition-[flex] duration-[0.7s] ease-out-flex cursor-pointer`}
     onClick={() => handleClick(id)}
   >
-    <img
+   <img
       src={imgUrl}
       alt="planet-04"
       className="absolute w-full h-full object-cover rounded-[24px] "
@@ -37,9 +37,9 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
           Project
         </p>
         <h2 className="mt-[24px] font-semibold sm:text-[32px] text-[24px] text-white">
-          {title === 'Chat Gpt' ? <a href="https://chat-gpt-project-namanmalhotra.vercel.app/">{title}</a> : <h5>{title}</h5>}
-        </h2>
-      </div>
+           <a href={url}>{title}</a>
+           </h2>
+       </div>
     )}
   </motion.div>
 );
