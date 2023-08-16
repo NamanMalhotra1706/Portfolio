@@ -1,9 +1,9 @@
 export const Projects = [
   {
     id: 'project-1',
-    imgUrl: '/jobPortral.png',
-    title: 'Job Portral',
-    url:"/"
+    imgUrl: '/thread-clone.jpg',
+    title: 'Thread Clone',
+    url:"https://thread-clone-naman-malhotra.vercel.app/"
   },
   {
     id: 'project-2',
@@ -13,8 +13,8 @@ export const Projects = [
   },
   {
     id: 'project-3',
-    imgUrl: '/Blog.png',
-    title: 'Bloging Site',
+    imgUrl: '/jobPortral.png',
+    title: 'Job Portral',
     url:"/",
   },
   {
