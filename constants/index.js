@@ -32,11 +32,11 @@ export const Projects = [
 ];
 
 export const startingFeatures = [
-  ' DevOps Pre-Requisite Certified',
+  ' Project Management Certified (Coursera)',
   ' Android Study Jam Ceritified',
   ' Cerified in  Languages like Python and C++ ',
   ' Certified in CyberSecurity ',
-  ' 4 Completion Badges of Google Cloud '
+  ' Completion and Skill Badges of Google Cloud '
 ];
 
 export const newFeatures = [

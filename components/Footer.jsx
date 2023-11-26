@@ -45,7 +45,7 @@ const Footer = () => (
           <div className="flex gap-4">
             <a href="https://instagram.com/naman_malhotra683?igshid=MTIzZWQxMDU="><img src="/instagram.svg" className="w-[24px] h-[24px] object-contain cursor-pointer" />{/* eslint-disable-next-line */}</a>
             <a href="https://www.linkedin.com/in/naman-malhotra-54205423b/"><img src="/linkedin.svg" className="w-[24px] h-[24px] object-contain cursor-pointer" />{/* eslint-disable-next-line */}</a>
-            <a href="https://twitter.com/NamanMalhotra68"><img src="/Twitter.svg" className="w-[24px] h-[24px] object-contain cursor-pointer" />{/* eslint-disable-next-line */}</a>
+            <a href="https://twitter.com/NamanMalhotra68"><img src="/twitter.svg" className="w-[24px] h-[24px] object-contain cursor-pointer" />{/* eslint-disable-next-line */}</a>
             <a href="https://www.facebook.com/rakhi.malhotra.773"><img src="facebook.svg" className="w-[24px] h-[24px] object-contain cursor-pointer" />{/* eslint-disable-next-line */}</a>
           </div>
         </div>
