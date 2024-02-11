@@ -7,21 +7,21 @@ export const Projects = [
   },
   {
     id: 'project-2',
-    imgUrl: '/Chat_Gpt.png',
-    title: 'Chat Gpt',
-    url:"https://chat-gpt-project-namanmalhotra.vercel.app/",
+    imgUrl: '/lms.jpg',
+    title: 'Learning Management System',
+    url:"https://learning-managment-system-client.vercel.app/",
   },
   {
     id: 'project-3',
     imgUrl: '/jobPortral.png',
     title: 'Job Portral',
-    url:"/",
+    url:"https://github.com/Mgrover-17/Job-Portral-Project",
   },
   {
     id: 'project-4',
-    imgUrl: '/Sportistan.png',
-    title: 'Sportistan',
-    url:"/",
+    imgUrl: '/todoReact.jpg',
+    title: 'React TodoList',
+    url:"https://todo-list-react-5sem-ete.vercel.app/",
   },
   {
     id: 'project-5',

@@ -37,10 +37,9 @@ const About = () => (
        
         <span className="font-extrabold text-white">Hey!</span> My self <span className="font-extrabold text-white">Naman Malhotra</span>, I am
         Full Stack Developer from India . I am a dediacted to the quest of developing solution that leverage on best practice technologies 
-        to deliver over the top user experience . I have a Create a <span className="font-extrabold text-white">Job Portral</span> and Some Small web Projects 
-        which contains <span className="font-extrabold text-white">MERN</span>  and one Little Project on <span className="font-extrabold text-white">MOTOKO</span> and looking forward to work on <span className="font-extrabold text-white">3JS and Web3</span>.
+        to deliver over the top user experience . Till Now, I have made <span className='font-extrabold text-white'> Learning Management System, Thread Clone, AI Image Generator </span> using MERN tech
+        and currently working on iOS Specialization 
 
-        
       </motion.p>
     </div>
     <motion.img
