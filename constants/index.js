@@ -33,8 +33,8 @@ export const Projects = [
 
 export const startingFeatures = [
   ' Project Management Certified (Coursera)',
-  ' Android Study Jam Ceritified',
-  ' Cerified in  Languages like Python and C++ ',
+  ' iOS Application Development Internship(Infosys)',
+  ' Cerified in  Full Stack Development ',
   ' Certified in CyberSecurity ',
   ' Completion and Skill Badges of Google Cloud '
 ];

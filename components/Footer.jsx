@@ -26,6 +26,15 @@ const Footer = () => (
             </span>
           </button>
         </a>
+
+        <a href="#footer" onClick={()=>{window.open("https://github.com/NamanMalhotra1706")}}>
+          <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
+            <img src="/gitHub.svg" alt="chitkara" className="w-[34px] h-[34px] object-contain" />
+            <span className="font-normal text-[16px] text-white">
+              GitHub Profile
+            </span>
+          </button>
+        </a>
       </div>
 
       <div className="flex flex-col">

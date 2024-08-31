@@ -36,10 +36,9 @@ const About = () => (
       >
        
         <span className="font-extrabold text-white">Hey!</span> My self <span className="font-extrabold text-white">Naman Malhotra</span>, I am
-        Full Stack Developer from India . I am a dediacted to the quest of developing solution that leverage on best practice technologies 
-        to deliver over the top user experience . Till Now, I have made <span className='font-extrabold text-white'> Learning Management System, Thread Clone, AI Image Generator </span> using MERN tech
-        and currently working on iOS Specialization 
-
+        Full Stack Developer from India. I hail from Abohar. Pursuing <span className='font-extrabold text-white'>Bachelor of Engineering</span> from <span className='font-extrabold text-red-500'>Chitkara University. </span>
+        I have expertise in <span className='text-white font-extrabold'> Full Stack Development, Java, MySQL, AWS, JIRA, Git, GitHub, OOPs, Problem Solving.
+        </span> I also have <span className='text-white font-extrabold'>Intern</span> experience at <span className='text-[#3781C2]'>Infosys.</span>
       </motion.p>
     </div>
     <motion.img
